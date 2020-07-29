@@ -3,6 +3,8 @@ Repository for the Sparkify Capstone project that was part of the Udacity Data S
 
 The goal of this project is to create a supervised machine learning model to predict the user's churn based on the user's previous interaction with the Sparkify music application. 
 
+A supervised machine learning model was trained based on the various data columns within the Sparkify data set, the models were compared based on the F1 measure.
+
 # Installations
 This analysis was performed with the use of Jupyter Notebook and relies upon the following libraries:
  - pyspark
